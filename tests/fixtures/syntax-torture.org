@@ -1,0 +1,16 @@
+:SIDECAR:
+drawer contents
+:END:
+1) ordered with paren
++ plus bullet
+CLOCK: [2026-09-21 Mon 09:00]--[2026-09-21 Mon 10:00] =>  1:00
+: fixed-width line
+-------
+- item
+  - nested bullet
+  continuation
+[[id:abcdef][fuzzy link]]
+,Mangled *markup*
+#+BEGIN_CENTER
+centered text
+#+END_CENTER

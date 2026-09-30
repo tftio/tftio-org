@@ -1,0 +1,9 @@
+* Weekly review
+CLOSED: [2026-09-21 Mon 16:30]
+:LOGBOOK:
+- <2026-09-14 Mon 09:00> started
+- <2026-09-21 Mon 16:30> finished
+:END:
+
+* Recurring :check:
+SCHEDULED: <2026-09-28 Mon ++1w>

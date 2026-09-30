@@ -1,0 +1,29 @@
+#+TITLE: An Article on Parsing
+#+AUTHOR: Jane Doe
+#+DATE: [2026-09-22 Tue]
+
+Org files in the wild use mixed-case keywords.
+
+#+BEGIN_QUOTE
+A quoted passage with /emphasis/.
+#+END_QUOTE
+
+#+BEGIN_SRC rust
+fn parse(input: &str) -> Document {
+    todo!()
+}
+#+END_SRC
+
+#+BEGIN_EXAMPLE
+$ cargo test
+running 114 tests
+#+END_EXAMPLE
+
+| Feature | Status |
+|---------+--------|
+| writer  | done   |
+
+-----
+#+BEGIN_VERSE
+line of verse
+#+END_VERSE

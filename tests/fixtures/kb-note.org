@@ -1,0 +1,16 @@
+#+title: Rust notes
+#+filetags: :rust:kb:
+
+* Overview :rust:
+:PROPERTIES:
+:ID: 2a0f5c1e-0000-4000-8000-000000000001
+:END:
+Some prose with *bold*, /italic/, =code=, ~verbatim~, and a [[https://example.com][link]].
+
+* Tasks
+SCHEDULED: <2026-10-01 Thu> DEADLINE: [2026-10-15 Thu]
+:LOGBOOK:
+- [2026-09-20 Sun 09:00] opened the note
+:END:
+- [ ] first task
+- [X] second task
