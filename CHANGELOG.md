@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.9](https://github.com/tftio/tftio-org/compare/v0.1.8...v0.1.9) - 2026-11-23
+
+### Other
+
+- update tftio/gh-actions reusable workflow pin to v2.5.1 ([#15](https://github.com/tftio/tftio-org/pull/15))
+
 ## [0.1.8](https://github.com/tftio/tftio-org/compare/v0.1.7...v0.1.8) - 2026-11-18
 
 ### Other
