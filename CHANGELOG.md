@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.10](https://github.com/tftio/tftio-org/compare/v0.1.9...v0.1.10) - 2026-11-25
+
+### Fixed
+
+- *(deps)* unblock tool updates with cargo-deny migration ([#17](https://github.com/tftio/tftio-org/pull/17))
+
 ## [0.1.9](https://github.com/tftio/tftio-org/compare/v0.1.8...v0.1.9) - 2026-11-23
 
 ### Other
